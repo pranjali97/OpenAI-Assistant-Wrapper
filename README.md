@@ -1,7 +1,7 @@
 # OpenAI-Assistant-Wrapper
 
 Wrapper code to create an OpenAI Assistant using the Assistant API 
-1. Create assistant file and external knowledge
+1. Create assistant file and external knowledge (Given a path (file or folder))
 2. Create assistant
 
 Class to support all the available functionality using the Assistant
